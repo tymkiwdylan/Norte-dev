@@ -1,0 +1,2 @@
+- [ ] Pensar en estrategia de marketing
+- [ ] Conseguir primer cliente

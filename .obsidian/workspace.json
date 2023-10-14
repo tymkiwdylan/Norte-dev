@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "43e84f3e6a67b9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef0ebdc47d5f3137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccf3343e13ac70c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A.B.M.P/Backend/Stock Control Service/MicroService.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "139c00fa78d66d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generador de archivos para AFIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8790d788ccefb307",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc27a1299ada25b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fc40c3cde53ef2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4cbdf61672ce29a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Segmentos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8ec2b89410123dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "355e7a7138d2c7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ab7e0c0d68e851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab61ca66390590d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generador de archivos para AFIP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "887d71a96b2356d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Generador de archivos para AFIP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21d5a009f878f8d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c4bb78f2f8ef701",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generador de archivos para AFIP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "floating": {
+    "id": "845c8deb2b77e373",
+    "type": "floating",
+    "children": [
+      {
+        "id": "35e15b73fbfb71b6",
+        "type": "window",
+        "children": [
+          {
+            "id": "dee9a145e65f48a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3caea5809af40b69",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A.B.M.P/Backend/Stock Control Service/Design instructions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 389,
+        "y": 69,
+        "width": 1268,
+        "height": 905,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "139c00fa78d66d6a",
+  "lastOpenFiles": [
+    "A.B.M.P/Backend/Stock Control Service/MicroService.md",
+    "Generador de archivos para AFIP.md",
+    "A.B.M.P/Backend/Stock Control Service/Design instructions.md",
+    "A.B.M.P/Backend/Stock Control Service/Agent Design.md",
+    "A.B.M.P/Backend/Stock Control Service/Agent.md",
+    "A.B.M.P/Backend/Project Structure.canvas",
+    "A.B.M.P/AI Business Management Platform (A.B.M.P).md",
+    "Guion.md",
+    "Videos.md",
+    "A.B.M.P/Initial Funding/Target Market/Market Segmentation.md",
+    "A.B.M.P/Initial Funding/Target Market/Target Market-Steps.md",
+    "A.B.M.P/Initial Funding/Target Market",
+    "A.B.M.P/Initial Funding/Initial Funding.md",
+    "A.B.M.P/Initial Funding/Competition Research.md",
+    "().md",
+    "A.B.M.P/Initial Funding",
+    "Investor pitch.md",
+    "A.B.M.P/Agents.md",
+    "A.B.M.P/Backend/Social Media Service/Agent.md",
+    "A.B.M.P/Backend/Social Media Service/MicroService.md",
+    "A.B.M.P/Backend/Social Media Service",
+    "A.B.M.P/Backend/Stock Control Service/SCS.md",
+    "A.B.M.P/Backend/Email Service/Agent.md",
+    "A.B.M.P/Backend/Data Analysis Service/MicroService.md",
+    "A.B.M.P/Backend/Data Analysis Service/DAS.md",
+    "A.B.M.P/Backend/Data Analysis Service/Agent.md",
+    "Instagram urls.md",
+    "A.B.M.P/Backend",
+    "A.B.M.P/Backend/Email Service/MicroService.md",
+    "A.B.M.P/Backend/Email Service/Email Service.md",
+    "A.B.M.P/Backend/Email Service",
+    "A.B.M.P/Backend/WhatsApp service/Agent.md",
+    "A.B.M.P/Backend/WhatsApp service",
+    "A.B.M.P/Backend/Stock Control Service",
+    "A.B.M.P"
+  ]
+}

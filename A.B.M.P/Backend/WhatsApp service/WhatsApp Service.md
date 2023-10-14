@@ -1,0 +1,2 @@
+1. [MicroService](obsidian://open?vault=Norte%20Development&file=A.B.M.P%2FWhatsApp%20service%2FMicroService)
+2. [Agent](obsidian://open?vault=Norte%20Development&file=A.B.M.P%2FWhatsApp%20service%2FAgent)

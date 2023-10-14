@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"4343c81e2266ab68","type":"file","file":"A.B.M.P/AI Business Management Platform (A.B.M.P).md","x":2588,"y":-2520,"width":400,"height":400},
+		{"id":"80ad3f682879fc7f","type":"file","file":"A.B.M.P/Backend/Stock Control Service/SCS.md","x":1600,"y":-2040,"width":400,"height":400},
+		{"id":"78ea0a341ef4f64e","type":"file","file":"A.B.M.P/Backend/WhatsApp service/WhatsApp Service.md","x":3400,"y":-2040,"width":400,"height":400},
+		{"id":"bcb767ef6faf0a1e","type":"file","file":"A.B.M.P/Backend/Stock Control Service/MicroService.md","x":1343,"y":-1440,"width":400,"height":400},
+		{"id":"ff334fdd95bb9618","type":"file","file":"A.B.M.P/Backend/Stock Control Service/Agent.md","x":1943,"y":-1440,"width":400,"height":400},
+		{"id":"a7ab04c815918c8f","type":"file","file":"A.B.M.P/Backend/WhatsApp service/Agent.md","x":3078,"y":-1480,"width":400,"height":400},
+		{"id":"0dfc671e0b18baaa","type":"file","file":"A.B.M.P/Backend/WhatsApp service/MicroService.md","x":3723,"y":-1480,"width":400,"height":400},
+		{"id":"a718c3e1769fc9f8","type":"file","file":"A.B.M.P/Initial Funding/Initial Funding.md","x":253,"y":1405,"width":400,"height":400},
+		{"id":"27d7aac709c4823a","type":"file","file":"A.B.M.P/Initial Funding/Target Market/Market Segmentation.md","x":698,"y":1405,"width":400,"height":400},
+		{"id":"ffea89fd211cfce0","type":"file","file":"A.B.M.P/Backend/Email Service/Email Service.md","x":4680,"y":-2040,"width":400,"height":400},
+		{"id":"695f7ab61acb1510","type":"file","file":"A.B.M.P/Backend/Data Analysis Service/DAS.md","x":498,"y":-2040,"width":400,"height":400},
+		{"id":"84cdec9ab34dbe89","type":"file","file":"A.B.M.P/Backend/Email Service/MicroService.md","x":4400,"y":-1480,"width":400,"height":400},
+		{"id":"2241b65b73262031","type":"file","file":"A.B.M.P/Backend/Data Analysis Service/Agent.md","x":498,"y":-1400,"width":400,"height":400},
+		{"id":"3c29f9065eed8242","type":"file","file":"A.B.M.P/Backend/Email Service/Agent.md","x":4960,"y":-1480,"width":400,"height":400},
+		{"id":"c14e7d928badd667","type":"file","file":"A.B.M.P/Backend/Social Media Service/Agent.md","x":2278,"y":-80,"width":400,"height":400},
+		{"id":"3421ea14c6494859","type":"file","file":"A.B.M.P/Backend/Social Media Service/MicroService.md","x":2878,"y":-80,"width":400,"height":400},
+		{"id":"f29f2c616afe3ad0","type":"text","text":"Social Meida Service","x":2635,"y":-461,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"fbedcdd8d18f7ec0","fromNode":"4343c81e2266ab68","fromSide":"bottom","toNode":"80ad3f682879fc7f","toSide":"top"},
+		{"id":"79268756563af1cd","fromNode":"4343c81e2266ab68","fromSide":"bottom","toNode":"78ea0a341ef4f64e","toSide":"top"},
+		{"id":"170f8759527b162e","fromNode":"80ad3f682879fc7f","fromSide":"bottom","toNode":"bcb767ef6faf0a1e","toSide":"top"},
+		{"id":"88346e2123958702","fromNode":"80ad3f682879fc7f","fromSide":"bottom","toNode":"ff334fdd95bb9618","toSide":"top"},
+		{"id":"f78f4575c3cd2838","fromNode":"78ea0a341ef4f64e","fromSide":"bottom","toNode":"a7ab04c815918c8f","toSide":"top"},
+		{"id":"782e055b5d2bd519","fromNode":"78ea0a341ef4f64e","fromSide":"bottom","toNode":"0dfc671e0b18baaa","toSide":"top"},
+		{"id":"dd96aeb606219691","fromNode":"4343c81e2266ab68","fromSide":"left","toNode":"695f7ab61acb1510","toSide":"top"},
+		{"id":"c96bc2597a3be1b0","fromNode":"695f7ab61acb1510","fromSide":"bottom","toNode":"2241b65b73262031","toSide":"top"},
+		{"id":"b043388e588f7620","fromNode":"ffea89fd211cfce0","fromSide":"bottom","toNode":"84cdec9ab34dbe89","toSide":"top"},
+		{"id":"ff6d8e1538c15dbd","fromNode":"ffea89fd211cfce0","fromSide":"bottom","toNode":"3c29f9065eed8242","toSide":"top"},
+		{"id":"7d0c3f1ab1bff0a0","fromNode":"4343c81e2266ab68","fromSide":"right","toNode":"ffea89fd211cfce0","toSide":"top"},
+		{"id":"1f8846c43383300d","fromNode":"f29f2c616afe3ad0","fromSide":"bottom","toNode":"c14e7d928badd667","toSide":"top"},
+		{"id":"4a3b277dbfa110a4","fromNode":"f29f2c616afe3ad0","fromSide":"bottom","toNode":"3421ea14c6494859","toSide":"top"},
+		{"id":"df648614bf6eb5a9","fromNode":"4343c81e2266ab68","fromSide":"bottom","toNode":"f29f2c616afe3ad0","toSide":"top"}
+	]
+}
